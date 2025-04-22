@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sakshi Joshi</h1>
 <h3 align="center">An Engineering Graduate passionate about Data Analytics ,Business intelligence and continuous learning.</h3>
 
-- 🌱 I’m currently learning **PYTHON,MATLAB**
+- 🌱 I’m currently learning **PYTHON ,MATLAB**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/sakshijoshi7958](www.linkedin.com/in/sakshijoshi7958)
 
-- 💬 Ask me about **SQL,POWERBI,MICROSOFT EXCEL**
+- 💬 Ask me about **SQL ,POWERBI ,MICROSOFT EXCEL**
 
 - 📫 How to reach me **sakshijoshi7958@gmail.com**
 
